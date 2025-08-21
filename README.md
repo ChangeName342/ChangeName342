@@ -1,13 +1,14 @@
 <h1 align="center">👋 Hi, I'm Ignacio</h1>
-<h3 align="center">💻 Developer from Chile</h3>
+<h3 align="center">💻 Developer & Tech Enthusiast from Chile</h3>
 
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **React, Node.js, and modern web development**
-- 🛠 Passionate about building **useful applications** and learning new technologies
-- 🌍 From **Chile**, open to collaborating on exciting projects
-- 🎯 Goal: Become a **full-stack developer** with a focus on scalable and secure applications  
+- 🌱 Always eager to **learn new technologies** and expand my skills  
+- 📊 Interested in **data analysis** and extracting insights from information  
+- 🌐 Exploring the world of **full-stack development**  
+- 🗄️ Passionate about **databases** and efficient data management  
+- 🔐 Curious about **cybersecurity** and secure application design  
 
 ---
 
@@ -36,6 +37,14 @@
 </p>
 
 ---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://instagram.com/magnanimo_plus/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
+
 
 ### 🌐 Connect with me
 <p align="left">
