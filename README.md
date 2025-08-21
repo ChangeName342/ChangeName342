@@ -70,6 +70,5 @@ Stay tuned for **open-source contributions**, **personal projects** and **collab
   <a href="https://instagram.com/magnanimo_plus/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="mailto:ignaciobarrientosc5@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="40" height="40"/></a>
 </p>
 
